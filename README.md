@@ -8,7 +8,7 @@
 
 A pixel-perfect clone of the macOS calculator, built with modern web technologies. This project demonstrates how to create a functional calculator with a beautiful UI, keyboard support, and responsive design.
 
-![Calculator Preview](https://raw.githubusercontent.com/wiki/placeholder/placeholder/calculator-preview.png)
+![Calculator Preview](https://raw.githubusercontent.com/pahrizal/macos-calculator-clone/main/calculator-preview.png)
 
 ## ✨ Features
 
